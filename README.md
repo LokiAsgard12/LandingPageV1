@@ -1,2 +1,2 @@
-# LandingPageV1
+# LandingPagePracticeFromProgate
 Progate Practice
